@@ -33,5 +33,5 @@ html,body,#root,.App{
   color: aliceblue;
 }
 .nav .active{
-  color: black;
+  color: rgb(160, 252, 160);
 }
