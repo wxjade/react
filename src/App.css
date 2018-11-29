@@ -34,5 +34,5 @@ html,body,#root,.App{
 }
 .nav .active{
   color: rgb(160, 252, 160);
-  font-size:20px;
+  font-size:12px;
 }
