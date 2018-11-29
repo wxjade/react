@@ -1,0 +1,37 @@
+html,body,#root,.App{
+  width:100%;
+  height:100%;
+}
+.App{
+  position: relative;
+}
+.page{
+  width:100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 49px;
+}
+#appTab{
+  width:100%;
+  height:49px;
+  position: absolute;
+  bottom:0;
+  left:0;
+}
+.nav{
+  width:100%;
+  height:100%;
+  text-align: center;
+  line-height: 49px;
+}
+.nav a{
+  display: inline-block;
+  width:20%;
+  height:49px;
+  background: lightcoral;
+  color: aliceblue;
+}
+.nav .active{
+  color: black;
+}
